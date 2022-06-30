@@ -1,3 +1,5 @@
 # GitHubPushBot
 
-Run "python main.py"
+Run "python main.py" 
+
+:')
